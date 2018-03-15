@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Text {
@@ -14,13 +13,7 @@ public class Text {
 			sc.close();
 		
 			String[] sentences = str.trim().split("(?<=\\.\\s)|(?<=[?]\\s)");
-			
-			ArrayList<String> text = new ArrayList<String>();
-			
-			for (String sentence : sentences){
-				text.add(sentence);	
-				} 
-			
+						
 			for (String sentence : sentences){
 				if (sentence.contains("?")) {
 					String[] words = (sentence + " ").split("\\p{P}?[ \\t\\n\\r]+");
