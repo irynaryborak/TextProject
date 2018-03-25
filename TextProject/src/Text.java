@@ -11,7 +11,6 @@ public class Text {
 	
 			public static void main(String[] args) throws IOException {
 				
-			//String str = "One Two? two three. One of three in One? Created by two?";
 			String str = new String(Files.readAllBytes(Paths.get("bin/files/data.txt")));
 			
 			System.out.println("Please enter length of word");
