@@ -38,5 +38,4 @@ public class Text {
                 }
                   System.out.println(al);
             }
-
 }
