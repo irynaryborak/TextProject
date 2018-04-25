@@ -1,6 +1,6 @@
+/out/
+/.idea/
 *.jar
 .idea
 .iml
-.xml
-/out/
-/.idea/
+
