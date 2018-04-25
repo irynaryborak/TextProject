@@ -2,5 +2,5 @@
 .idea
 .iml
 .xml
-out/*
-.idea/*
+/out/
+/.idea/
