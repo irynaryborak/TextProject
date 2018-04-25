@@ -1,7 +1,5 @@
 out/
-.idea
+.idea/
 *.jar
 .idea
 .iml
-.xml
-
