@@ -1,0 +1,45 @@
+What is the difference between regular and senior engineer?
+How do you understand that you are ready to obtain Senior position. What did you use to evaluate this?
+What is a regression? How to chose test cases for regression?
+All pairs approach and when it can be applied?
+
+Please describe software methodology on your current project?
+What are roles definied for Scum methodology.
+Please tell me difference between  Kanban and Scrum?
+What test methodology do you prefer? Why.
+Name Scrum meetings which occur during the sprint.
+Can you say that your former projects were strictly ruled within a certain methodology or it was a mix of different methodologies?
+
+What software testing types do you know?
+Which software testing types (or sometimes called levels in different classifications) are applied on your current project and how?
+What is the difference between functional and non-functional testing.
+What is the difference between software testing types and software testing levels?
+
+Are you familiar with Test strategy and Test plan? What is the difference between TP and TS?
+Have you ever created Testing Strategy? What was included in it.
+Describe testing strategy on your project\sub-project?
+What are the most important points of TP.
+What is the difference between TP and TS?
+If you need to create Testing Strategy for the new project what will be your actions?
+
+
+What steps do you take when analyzing the Requirements? 
+Or in general - please describe the process of requirements analysis from tester's view.
+On which stage of product development reqanalyzisshould be done? Why.
+What kind of bugs have you found or can be in the Requirements? 
+Could you please describe ideal requirement from tester's point of view?
+What are the attributes of the requirement from the QA point of view.
+How would you plan testing on mobile devices?
+How would you test mobile application without having the mobile device.
+Have you faced a problem with outdated documentation on your projects? (Requirements, Specification, Test Cases)
+If yes, what were the workarounds in such cases? What was the reason of the outdated documentation issue? "
+
+What test case you consider as good one. What it would contain?
+On your project - What format of test cases do use use: client's or the one you've proposed?
+Which Test Design / test approaches do you use when create test cases?
+Where do you store the test cases.
+How do you understand that requirement is covered by enough amount of test cases?
+How do you chose test cases to execute when you are limited in time?
+Did you face the situation when you have to test a new requirement and you're quite short of time.
+There is no time to write test cases. What did you do in that case.
+What would you prefer: to write test cases under the customer's control or without it? Prove your point. 
